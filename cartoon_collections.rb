@@ -19,7 +19,6 @@ end
 
 def find_the_cheese(array)
   cheeses = ["cheddar", "gouda", "camambert"]
-  snack = nil
     array.each do |cheese|
     cheeses.include?(cheese)
     snack = cheese
