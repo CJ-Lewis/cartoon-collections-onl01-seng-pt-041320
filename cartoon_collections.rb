@@ -23,5 +23,6 @@ def find_the_cheese(array)
     if cheeses.include?(cheese)
       snack = cheese
   end
+end
   snack
 end
