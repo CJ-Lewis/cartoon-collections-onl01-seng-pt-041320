@@ -24,5 +24,4 @@ def find_the_cheese(array)
       snack = cheese
   end
 end
-  snack
 end
